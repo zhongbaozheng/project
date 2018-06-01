@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yunzainfo.pitcher:kernel-component-manager:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yunzainfo/pitcher/kernel-component-manager/1.0-SNAPSHOT/kernel-component-manager-1.0-20170304.140240-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yunzainfo/pitcher/kernel-component-manager/1.0-SNAPSHOT/kernel-component-manager-1.0-20170304.140240-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yunzainfo/pitcher/kernel-component-manager/1.0-SNAPSHOT/kernel-component-manager-1.0-20170304.140240-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
